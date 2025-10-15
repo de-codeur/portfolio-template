@@ -53,13 +53,13 @@ export default function Profile() {
           </div>
           <div className={styles.text}>
             <h1 className={styles.title}>
-              Hi, I&apos;m <span className={styles.highlight}>First Name</span>
+              Hi, I&apos;m <span className={styles.highlight}>Dean </span>
             </h1>
             <div className={styles.education}>
               <p className={styles.school}>
-                <span className={styles.schoolName}>College/University</span>
-                <span className={styles.degree}>Major</span>
-                <span className={styles.minor}>Minor</span>
+                <span className={styles.schoolName}>KSU</span>
+                <span className={styles.degree}>Computer Science</span>
+                <span className={styles.minor}>Minir:None</span>
               </p>
             </div>
             <p className={styles.subtitle}>
